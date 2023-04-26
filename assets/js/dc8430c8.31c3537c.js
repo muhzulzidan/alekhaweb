@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalekhaweb=self.webpackChunkalekhaweb||[]).push([[5102],{7834:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/alekhaweb/case-studies/tags/docusaurus","allTagsPath":"/alekhaweb/case-studies/tags","count":4}')}}]);
