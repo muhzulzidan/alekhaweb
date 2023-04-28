@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkalekhaweb=self.webpackChunkalekhaweb||[]).push([[2539],{1193:e=>{e.exports=JSON.parse('{"permalink":"/alekhaweb/case-studies/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
